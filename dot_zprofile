@@ -1,0 +1,8 @@
+eval "$(/opt/homebrew/bin/brew shellenv)"
+
+
+export PATH="$PATH:/Users/daniel/Library/Application Support/JetBrains/Toolbox/scripts"
+
+# Dodaj narzędzia zestawu platformy .NET Core
+export PATH="$PATH:/Users/daniel/.dotnet/tools"
+export R_HOME="$(R RHOME)"

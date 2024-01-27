@@ -1,0 +1,8 @@
+
+eval "$(starship init zsh)"
+
+alias ls="ls -G"
+
+export HOMEBREW_GITHUB_API_TOKEN=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
+
+export EDITOR=nvim
